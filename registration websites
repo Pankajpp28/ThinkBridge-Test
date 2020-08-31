@@ -1,0 +1,26 @@
+ feedback/improvements/suggestions are as follows - 
+
+Functionality-
+1. Not able to upload the photo and the signiture.
+2. We can set the popup forms on the multi form click, like land lord address page.
+3. Not able to see the payment getway path. or the button to pay bill.
+4. Field validation error functinality isnt working good, some of mandetory field missing from validation and some of the field showing extra validation.
+5. Terms and Conditions not working in connection details section.
+6. Payment functinality is not working on the Mobile devices, and some others browsers.
+
+Usability-
+1. The page UI looks actually good, because of simplicity in the looks, general human can also able read the fields.
+2. But it is very tricky to get the navigation after opens the multiple forms.
+3. suggest to increas the form field because of that the consumer get confused to see on perticuler form field.
+4. lower Require Document section showing some click problems.
+5. We can also set the New connection Application on the form.
+
+UI Aesthetics-
+1. 'Transmission and Distribution Information Management System' should be in middle of the header container.
+2. The banner side could be more attractive than current, shoild not be italic.
+3. We can set all the form field should be in a same size, and not depent on the text size.
+4. 'view photo here' and 'View Signiture here' implemented wrongly. they are seems broken and signiture field missed out.
+5. Billing address status section Yes and No condition should be more attractive, can set the checkbox or radio out if the box.
+6. Some of the field text is exact as the field size, we can increase the size of the field.
+7. Font size, color and hieght should be consistent as per the section.
+8. UI is not the mobile friendly, lots of allignmet design problems are there.
